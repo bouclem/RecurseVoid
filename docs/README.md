@@ -1,6 +1,6 @@
 # RecurseVoid
 
-**Version:** 0.0.1
+**Version:** 0.0.2
 **Language:** Rust
 
 **Inspired by:** [OpenCode](https://github.com/anomalyco/opencode)

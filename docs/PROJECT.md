@@ -1,6 +1,6 @@
 # Project Overview
 
-**RecurseVoid** — v0.0.1
+**RecurseVoid** — v0.0.2
 
 **Language:** Rust (chosen for maximum performance)
 
