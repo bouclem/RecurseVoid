@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.0.3
+
+- Changed TUI commands to require `/` prefix
+- Added `/version` command
+- Added `/clear` command (clears screen and resets to welcome)
+- Added session logging (`recursevoid.log`)
+
 ## 0.0.2
 
 - Added very simple TUI (help and exit commands)

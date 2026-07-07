@@ -11,6 +11,12 @@
 - [x] Added ASCII logo
 - [x] Added `--help` and `--version` CLI flags
 
+## v0.0.3 (done)
+- [x] Changed TUI commands to require `/` prefix
+- [x] Added `/version` command
+- [x] Added `/clear` command
+- [x] Added session logging
+
 ## Next
 - [ ] Define project scope and goals
 - [ ] Design core architecture (agent loop, LLM provider abstraction)

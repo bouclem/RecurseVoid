@@ -1,3 +1,4 @@
+mod log;
 mod logo;
 mod tui;
 
